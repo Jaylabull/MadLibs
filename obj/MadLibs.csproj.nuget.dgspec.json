@@ -14,7 +14,7 @@
         "outputPath": "/Users/jaylabullard/Desktop/Projects/CodeCademyProjects/C#/MadLibs/MadLibs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jaylabullard/.config/NuGet/NuGet.Config"
+          "/Users/jaylabullard/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
